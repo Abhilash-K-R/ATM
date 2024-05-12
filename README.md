@@ -1,3 +1,3 @@
  ATM machine 
 
-Using python creat a our ATM machine SERVICE
+Using python creating a ATM machine SERVICE
